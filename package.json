@@ -1,0 +1,21 @@
+{
+  "name": "fundamentos-de-typescript",
+  "version": "1.0.0",
+  "description": "Proyect for to learn Typescript",
+  "main": "src/",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "typescript"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "David Alba Ortega",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  }
+}
